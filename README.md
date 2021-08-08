@@ -1,5 +1,5 @@
 # bolton-game
-1) User Interfaces :-
+1) User Interfaces :-                                                                                                                                                 
 ![Screenshot from 2021-08-08 19-16-57](https://user-images.githubusercontent.com/29908867/128637285-3e2924ee-3002-44a7-b03a-e30df17b28b7.png)
 ![Screenshot from 2021-08-08 19-19-53](https://user-images.githubusercontent.com/29908867/128637288-810f71d9-2c8a-4e2a-b25e-e6616b128140.png)
 ![Screenshot from 2021-08-08 19-20-21](https://user-images.githubusercontent.com/29908867/128637290-12fcc80b-433c-4a7b-bc53-1a55be06097f.png)
